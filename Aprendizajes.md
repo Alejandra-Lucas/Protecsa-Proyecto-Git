@@ -13,3 +13,5 @@
 * **Visualización del historial:** Revisar bifurcaciones y el historial de cambios usando `git log --graph --oneline`.
 
 * **Modificación de commits:** Deshacer cambios (con `git reset`) o modificar el último commit (con `git commit --amend`).
+
+## Aportes y sugerencias:
