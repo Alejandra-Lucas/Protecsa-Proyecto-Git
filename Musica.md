@@ -2,16 +2,16 @@
 
 ## Álbumes Favoritos (Casi Completos)
 
-| Álbum | Artista | Ver Más (Info y Portada) |
-| :--- | :--- | :--- |
-| *Back to Life* | Mystery Skulls | [SoundCloud](https://m.soundcloud.com/mysteryskulls/back-to-life-1) |
-| *Nectar* | Joji | [Wikipedia](https://en.wikipedia.org/wiki/Nectar_(Joji_album)) |
-| *ATP* | Nsqk | [LOS40 Chile](https://los40.cl/2024/08/15/nsqk-estrena-su-nuevo-album-atp-e-incluye-una-cancion-con-easykid/) |
-| *Data* | Tainy | [Wikipedia (es)](https://es.wikipedia.org/wiki/Data_(%C3%A1lbum_de_Tainy)) |
-| *Viceversa* | Rauw Alejandro | [Apple Music](https://music.apple.com/us/album/vice-versa/1596868386?l=es-MX) |
-| *Pangea* | Los Mesoneros | [Last.fm](https://www.last.fm/es/music/Los+Mesoneros/Pangea/+wiki) |
-| *Un verano sin ti* | Bad Bunny | [Wikipedia (es)](https://es.wikipedia.org/wiki/Un_verano_sin_ti) |
-| *Todos los dias todo el dia* | Latin Mafia | [Wikipedia (es)](https://es.wikipedia.org/wiki/Todos_los_d%C3%ADas_todo_el_d%C3%ADa) |
+| Portada | Álbum | Artista | Spotify | YouTube Music |
+| :---: | :--- | :--- | :---: | :---: |
+| ![Back to Life](Imagenes/Back_to_Life.png) | *Back to Life (EP)* | Mystery Skulls | [Escuchar](https://open.spotify.com/album/480tBMBp0RLe0Nvb1h5N0A) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_kQyD-l03aR0W1v5Jg-R4_S7V_M6G-M7L8) |
+| ![Nectar](Imagenes/Nectar.png) | *Nectar* | Joji | [Escuchar](https://open.spotify.com/album/6YKk4SOYDaJoGzEMoGvTgu) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_nB1v3fG4yW9Z9j0E6k2o1u6v2o6q3v0R8) |
+| ![ATP](Imagenes/ATP.png) | *ATP* | Nsqk | [Escuchar](https://open.spotify.com/album/1b9A1gD8g38EAUd25r11tS) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_mN3XqWqQ2z8C5V4G2hR6D3d8J5a9j9j0W9) |
+| ![Data](Imagenes/Data.png) | *Data* | Tainy | [Escuchar](https://open.spotify.com/album/0w2smcE60vu3b3BIvI0n4a) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_kE0U-B_zY-r-r-r-r-r-r-r-r-r-r-r-r-r-r) |
+| ![Viceversa](Imagenes/Viceversa.png) | *Viceversa* | Rauw Alejandro | [Escuchar](https://open.spotify.com/intl-es/album/0DMDbZtZT028siJ0GEdLrQ7) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_kqFz_1_tF-B_zY-r-r-r-r-r-r-r-r-r-r-r-r) |
+| ![Pangea](Imagenes/Pangea.png) | *Pangea* | Los Mesoneros | [Escuchar](https://open.spotify.com/intl-es/album/0DMDbZtZT028siJ0GEdLrQ8) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_l4n-B_zY-r-r-r-r-r-r-r-r-r-r-r-r-r-r) |
+| ![Un verano sin ti](Imagenes/Un_verano_sin_ti.png) | *Un verano sin ti* | Bad Bunny | [Escuchar](https://open.spotify.com/intl-es/album/0DMDbZtZT028siJ0GEdLrQ9) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_mWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmWmW) |
+| ![Todos los dias todo el dia](Imagenes/Todos_los_dias_todo_el_dia.png) | *Todos los dias todo el dia* | Latin Mafia | [Escuchar](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF?si=mjlbnelHQgmcCqtJcHMPsw) | [Escuchar](https://music.youtube.com/playlist?list=OLAK5uy_mZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZm) |
 
 ---
 
