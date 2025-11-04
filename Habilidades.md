@@ -24,3 +24,20 @@
 * Inglés
 
 ---
+
+## Blandas
+
+* Comunicación
+* Positividad
+* Integridad
+* Trabajo en equipo
+* Criterio
+* Sentido común
+* Humanidad
+* Empatía
+* Comprensión
+* Creatividad
+* Liderazgo
+* Resiliencia
+* Sinceridad
+
