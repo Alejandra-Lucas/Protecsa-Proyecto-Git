@@ -14,3 +14,13 @@
 * HTML
 * CSS
 * JavaScript
+
+### Tecnologías
+* Linux
+* Docker
+* Git
+
+### Idiomas
+* Inglés
+
+---
