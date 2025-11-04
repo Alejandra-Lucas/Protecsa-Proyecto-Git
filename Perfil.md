@@ -13,3 +13,11 @@ Me considero una persona divertida, a la que le encanta conocer personas, lugare
 * Películas
 * Conciertos
 * Salir de paseo por la ciudad
+
+## Mis Valores
+
+* Sinceridad
+* Amabilidad
+* Confianza
+* Solidaridad
+* Amistad
