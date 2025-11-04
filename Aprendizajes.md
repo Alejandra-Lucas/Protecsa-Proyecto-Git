@@ -1,6 +1,6 @@
 # Aprendizajes sobre Git
 
-* Borrar y cambiar de ramas.
-* Sobre el *stash* para guardar cambios sin realizar un commit.
-* Nomenclatura para llevar a cabo un commit.
-* Conectar repositorios remotos a un repositorio local ya existente.
+* **Gestión de ramas:** Cómo borrar y cambiar entre ramas locales y remotas.
+* **Uso del *stash*:** Guardar cambios temporalmente sin necesidad de hacer un commit.
+* **Nomenclatura de commits:** La importancia de seguir una convención para mensajes claros.
+* **Repositorios remotos:** Conectar un repositorio local ya existente a un nuevo remoto.
