@@ -1,8 +1,8 @@
-# Habilidades
+# 🌟 Habilidades
 
-## Técnicas
+## 🛠️ Habilidades Técnicas
 
-### Lenguajes de Programación
+### 💻 Lenguajes de Programación
 * Java
 * Python
 * C
@@ -10,22 +10,22 @@
 * SQL
 * Bash scripting
 
-### Desarrollo web
+### 🌐 Desarrollo Web
 * HTML
 * CSS
 * JavaScript
 
-### Tecnologías
+### ☁️ Tecnologías
 * Linux
 * Docker
 * Git
 
-### Idiomas
+### 🗣️ Idiomas
 * Inglés
 
 ---
 
-## Blandas
+## 💡 Habilidades Blandas
 
 * Comunicación
 * Positividad
@@ -40,4 +40,3 @@
 * Liderazgo
 * Resiliencia
 * Sinceridad
-
